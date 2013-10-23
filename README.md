@@ -8,7 +8,7 @@ using [IpToCountry database by Webnet77][IpToCountry].
 
 ### LANGUAGES ###
 
-Shell (Dash), Perl
+Shell (dash), Perl
 
 ### TARGET PLATFORM ###
 
