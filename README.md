@@ -17,6 +17,7 @@ Ubuntu 12.04 LTS
 ### DEPENDENCIES ###
 
 * [Geo::IPfree][] module by Graciliano M. P. <gm@virtuasites.com.br>
+  maintained by Brian Cassidy <bricas@cpan.org>.
 
 [Geo::IPfree]: https://metacpan.org/pod/Geo::IPfree
 
