@@ -24,8 +24,8 @@ Ubuntu 12.04 LTS
 ### USAGE ###
 
 * `setup/install.sh` - install dependencies and download Ip2Country data
-* `ip2country-code.sh 8.8.8.8` - convert an IPv4 address to a country code
-* `ip2country-name.sh 8.8.8.8` - convert an IPv4 address to a country name
+* `ip2country-code.pl 8.8.8.8` - convert an IPv4 address to a country code
+* `ip2country-name.pl 8.8.8.8` - convert an IPv4 address to a country name
 * `setup/update-data.sh` - update Ip2Country data (once a month)
 
 ### AUTHOR ###
