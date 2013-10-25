@@ -27,7 +27,6 @@ Ubuntu 12.04 LTS
 * `ip2country-code.sh 8.8.8.8` - convert an IPv4 address to a country code
 * `ip2country-name.sh 8.8.8.8` - convert an IPv4 address to a country name
 * `setup/update-data.sh` - update Ip2Country data (once a month)
-* `setup/uninstall.sh` - uninstall dependencies
 
 ### AUTHOR ###
 
